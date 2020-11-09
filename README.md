@@ -1,8 +1,12 @@
 # Bootstrap-Portfolio
+
+# Installation
 This is the website I created using Bootstrap 4
 
 The end product  renders a webpage that is responsive on multiple devices. Follow these steps to create your own page. 
 
+
+# Instructions
 Create Portfolio.html file
 Create Contacts.html file
 Create Index.html file
@@ -14,4 +18,10 @@ Personalize the code for each file
 Create repository in GitHub 
 Create URL for git repository
 Push Portfolio files to GitHub
+
+# License
+MIT
+
+# Links
+https://fedub1.github.io/Random-Password-Generator/
 
